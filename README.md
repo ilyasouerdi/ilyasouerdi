@@ -1,13 +1,11 @@
-<!-- Header Animated Shapes -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ilyasouerdii/animated-readme-assets/main/header-animation.svg" alt="Animated header shapes" width="100%"/>
+  <img src="./assets/header.gif" alt="Animated header" width="100%">
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Ilyas+Ouerdi;Software+Engineer+%7C+AI+%26+IoT;Tech+Entrepreneur+in+progress;Coffee+Lover+%7C+Gamer+%7C+Builder" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Ilyas+Ouerdi;Software+Engineer+%7C+AI+%26+IoT;Tech+Entrepreneur;Coffee+Lover+%7C+Gamer" alt="Typing Animation"/>
 </p>
 
 ---
@@ -43,7 +41,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilyasouerdii&show_icons=true&theme=blue-green&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasouerdii&theme=blue-green&hide_border=true" height="170"/>
@@ -65,4 +62,13 @@
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ilyasouerdii" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:
+  <a href="mailto:ilyasouerdii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://github.com/ilyasouerdii"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+</p>
+
+---
+
+<!-- Footer GIF -->
+<p align="center">
+  <img src="./assets/footer.gif" alt="Animated footer" width="100%"/>
+</p>
