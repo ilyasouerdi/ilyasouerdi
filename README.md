@@ -1,74 +1,72 @@
-<!-- Profile README for Ilyas Ouerdi -->
-
-<!-- Cool animated header -->
+<!-- Banner Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ilyas+Ouerdi!;Software+Engineer+%7C+AI+Enthusiast;Gamer+%7C+Tech+Explorer;Building+Smart+and+Scalable+Systems" alt="Typing animation" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
 
----
-
-## 🚀 About Me  
-💻 Final-year **Software Engineering Student** at SUP-MTI Oujda  
-⚡ Passionate about **AI, ML, Robotics, and Scalable Systems**  
-🌱 Currently learning **Spring Boot (Microservices) + React**  
-🎮 Gamer + ☕ Coffee Lover + Startup Dreamer  
-🌍 Based in **Morocco** | Open to global opportunities  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🔹 Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,dart,cpp,html,css,sql" />
-</p>
-
-### 🔹 Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,flutter,react,nodejs,mysql,mongodb,git,github,docker,linux,nginx" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
+<!-- Animated Header with Typing Effect -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyas-ouerdii&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-ouerdii&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1E90FF&center=true&width=600&lines=Hey%2C+I%27m+Ilyas+Ouerdi+👋;Software+Engineer+%7C+AI+%26+IoT;Crafting+Future+Tech" alt="Typing Animation" />
+  </a>
 </p>
 
+<!-- Banner Divider -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyas-ouerdii&theme=radical&hide_border=true" height="170"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
 
----
-
-## 🎯 Current Projects  
-- 🌾 **SmartFarm** – IoT + AI for agriculture (solar-powered, ML integration)  
-- 🛒 **E-commerce Platform** – Spring Boot Microservices + React + MongoDB  
-- 🤖 **AI Chatbot** – OpenAI integration with dynamic conversation handling  
-
----
-
-## 🏆 Goals for 2025  
-✔️ Master **Spring Boot Microservices**  
-✔️ Deploy scalable apps on **AWS Cloud**  
-✔️ Build my first **AI-powered startup**  
-✔️ Grow into a **top 1% software engineer**  
+## About Me  
+- 🎓 **Final-year Software Engineering Student** @ SUP-MTI Oujda  
+-  Passionate about **AI/ML, IoT, and Scalable Microservices**  
+-  Building **SmartFarm IoT systems** powered by ML insights  
+-  Avid **gamer**, **coffee connoisseur**, and startup dreamer  
 
 ---
 
-## 🌐 Connect With Me  
+## Tech Stack  
+
+**Frontend & Backend** | **Databases · DevOps · AI**  
+--- | ---  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+
+---
+
+## Featured Projects  
+-  **SmartFarm IoT**: Real-time soil & weather monitoring with ML-driven insights  
+-  **E-Commerce Microservices**: React + Spring Boot + MongoDB scalable architecture  
+-  **AI Chatbot**: Leveraging OpenAI to enhance user interaction  
+
+---
+
+## GitHub Stats  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ilyas-ouerdii"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:ilyas.ouerdii@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="50"/></a>
-  <a href="https://github.com/ilyas-ouerdii"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyasouerdii&show_icons=true&theme=blue-green&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasouerdii&theme=blue-green&hide_border=true" height="165" />
 </p>
 
 ---
 
-<!-- Footer with animation -->
+## Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ilyasouerdii/ilyasouerdii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ilyasouerdii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ilyas.ouerdii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
