@@ -156,7 +156,7 @@ Developed an intelligent conversational assistant with natural language processi
 I'm always interested in discussing technology, entrepreneurship, and opportunities for collaboration, especially in the AgTech space.
 
 <p align="center">
- <a href="https://www.linkedin.com/in/Ilyas Ouerdi">
+ <a href="https://www.linkedin.com/in/Ilyas Ouerdi](https://www.linkedin.com/in/ilyas-ouerdi-895a8025b/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="mailto:ilyasouerdi2@gmail.com">
