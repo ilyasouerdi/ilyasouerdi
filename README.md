@@ -1,62 +1,68 @@
-<!-- Banner -->
+<!-- Header Animated Shapes -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Ilyas+Ouerdi;Software+Engineer+%7C+AI+Enthusiast;Tech+Entrepreneur+in+progress;Coffee+Lover+%7C+Gamer+%7C+Builder" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ilyasouerdii/animated-readme-assets/main/header-animation.svg" alt="Animated header shapes" width="100%"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Ilyas+Ouerdi;Software+Engineer+%7C+AI+%26+IoT;Tech+Entrepreneur+in+progress;Coffee+Lover+%7C+Gamer+%7C+Builder" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-<!-- About Me -->
-<h2 align="center">💡 About Me</h2>
-
-- 🎓 Software Engineering student at **SUP-MTI Oujda**
-- 💻 Building **SmartFarm** 🌱 (IoT + WebApp with Spring Boot + React + MongoDB)
+## 💡 About Me
+- 🎓 Final-year **Software Engineering Student** at SUP-MTI Oujda
+- 💻 Building **SmartFarm IoT** (IoT + WebApp with Spring Boot + React + MongoDB)
 - 🚀 Interested in **AI, Cloud, Robotics, and Startups**
-- ☕ Big coffee drinker, gamer 🎮, and explorer of cool tech
-- 🌍 From **Morocco**, aiming to make global impact
+- ☕ Coffee lover, gamer 🎮, tech explorer
+- 🌍 From **Morocco**, aiming for global impact
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">⚡ Tech Stack</h2>
+## ⚡ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
+**Languages & Core:**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,cpp,html,css,mysql,mongodb" />
-  <br/>
-  <!-- Frameworks & Tools -->
+</p>
+
+**Frameworks & Tools:**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,flutter,react,nodejs,express,git,github,docker,linux,figma" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 🚀 Projects
+- 🌱 **SmartFarm IoT** – Real-time soil & weather monitoring with ML insights
+- 🛒 **E-Commerce Platform** – React + Spring Boot Microservices + MongoDB
+- 🤖 **AI Chatbot** – OpenAI-powered conversational assistant
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyasouerdii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ilyasouerdii&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyasouerdii&show_icons=true&theme=blue-green&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasouerdii&theme=blue-green&hide_border=true" height="170"/>
 </p>
 
 ---
 
-<!-- Fun Section -->
-<h2 align="center">🔥 Fun Stuff</h2>
-
+## 🔥 Fun Section
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ilyasouerdii&theme=tokyonight&no-frame=true&margin-w=5&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ilyasouerdii&theme=blue-green&no-frame=true&margin-w=5&row=1"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasouerdii&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasouerdii&theme=blue-green&hide_border=true"/>
 </p>
 
 ---
 
-<!-- Connect -->
-<h2 align="center">🤝 Connect With Me</h2>
-
+## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilyas-ouerdii" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ilyasouerdii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/ilyasouerdii"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/ilyasouerdii" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="mailto:
