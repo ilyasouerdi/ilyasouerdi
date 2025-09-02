@@ -156,13 +156,13 @@ Developed an intelligent conversational assistant with natural language processi
 I'm always interested in discussing technology, entrepreneurship, and opportunities for collaboration, especially in the AgTech space.
 
 <p align="center">
- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+ <a href="https://www.linkedin.com/in/Ilyas Ouerdi">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="mailto:YOUR_EMAIL@gmail.com">
+ <a href="mailto:ilyasouerdi2@gmail.com">
    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
- <a href="https://github.com/YOUR_GITHUB_USERNAME">
+ <a href="https://github.com/ilyasouerdi">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
  </a>
 </p>
